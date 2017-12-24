@@ -1,5 +1,5 @@
 pub fn solution() {
-    println!("\nproblem 1 _______________________________________\n");
+    println!("\nproblem 1 _______________________________________");
 
     for_loop();
     filter();
@@ -17,5 +17,5 @@ pub fn for_loop() {
 
 pub fn filter() {
     let sum : i32 = (0..1000).filter(|x| x % 3 == 0 || x % 5 == 0).sum();
-    println!("\n\tfilter\t: {}", sum);
+    println!("\tfilter\t: {}", sum);
 }
