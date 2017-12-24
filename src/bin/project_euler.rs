@@ -1,5 +1,5 @@
 mod p1;
 
 fn main() {
-    p1::naive();
+    p1::solution();
 }
