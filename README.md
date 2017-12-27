@@ -2,4 +2,4 @@
 
 ## run
 
-```cargo run --bin project_euler --verbose``` 
+```cargo run --bin project_euler --verbose```

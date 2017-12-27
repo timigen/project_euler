@@ -1,10 +1,10 @@
 pub fn solution() {
     println!("\nproblem 2 _______________________________________");
 
-    while_loop();
+    _loop();
 }
 
-pub fn while_loop() {
+pub fn _loop() {
     let mut x_one: u64 = 1;
     let mut x_two: u64 = 2;
     let mut x_next: u64;
